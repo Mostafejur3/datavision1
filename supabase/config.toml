@@ -1,0 +1,7 @@
+project_id = "dtaaahmghtisrenhsgxw"
+
+[functions.test-db-connection]
+verify_jwt = false
+
+[functions.contact-message]
+verify_jwt = false
